@@ -81,7 +81,8 @@ Smoke
 Виды приложений (нативное, гибридное)
 Проверка верстки проекта на соответствие макету 
 DEV-tools веб браузеров (Google Chrome, FireFox)
-SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).
+SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
+Основы программирования/JS
 
 
 Soft skills: внимательность, грамотность, адекватность.
